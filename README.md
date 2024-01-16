@@ -1,2 +1,4 @@
 # Handwritten-digit-generator
-DCGAN based on MNIST
+Final project of Machine Learning and Data Mining
+SYSU
+GAN and DCGAN based on MNIST
